@@ -1,0 +1,6 @@
+{
+  "name": "Alarm Clock",
+  "description": "A beautiful, premium Midnight Cosmic Slate styled alarm clock with persistent local scheduling and customizable snooze and repeat rules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
